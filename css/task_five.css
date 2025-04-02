@@ -1,0 +1,13 @@
+body {
+  background-image: url('../images/HTML5.png');
+  background-position: right 20px;
+  background-repeat: no-repeat;
+  background-size: 150px;
+  background-attachment: fixed;
+}
+
+section {
+  width: 70%;
+  border: 1px solid black;
+  padding: 30px 20px;
+}
