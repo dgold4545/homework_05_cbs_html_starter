@@ -1,0 +1,14 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.list__item {
+  padding: 10px;
+}
+
+.list__item:nth-child(even) {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
